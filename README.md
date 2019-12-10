@@ -1,6 +1,6 @@
 # Telegrambot
 
-TItle :- Using Raspberry Pi Over Internet
+TItle :- Stevens Bot using Telegram API with Raspberry Pi
 Class :- Internet of Thongs (EE 629)
 Professor :- Dr.Kevin Lu
 
