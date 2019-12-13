@@ -4,6 +4,11 @@ TItle :- Bot using Telegram API with Raspberry Pi
 
 Class :- Internet of Thongs (EE 629)
 
+Telegram bot is an extensive IOT project developed using the telegram API integrated with Raspberry Pi and other electrical components.
+It uses Python as the back-end script.
+Where it provides the required links upon commands and also operates the Raspberry Pi.
+The Raspberry pi reacts with turning the LED lights On/off upon commands.
+
 Professor :- Dr.Kevin Lu
 
 1. Hardware Used in Projects
